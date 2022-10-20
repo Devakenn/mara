@@ -12,7 +12,7 @@ SESSION_NAME = getenv("SESSION_NAME", "AQC6-JnQ2OATjLxrC8n7E9uzVKY-58a2kXbXkjy91
 
 # mandatory vars
 OWNER_USERNAME = getenv("OWNER_USERNAME", "rr8r9")
-ALIVE_NAME = getenv("ALIVE_NAME", "ali")
+ALIVE_NAME = getenv("ALIVE_NAME", "alii")
 BOT_USERNAME = getenv("BOT_USERNAME", "LROBOT")
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/RR8R9-muntazer/mara")
 UPSTREAM_BRANCH = getenv("UPSTREM_BRANCH", "main")
